@@ -24,7 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images//netflix-ui-clone.JPG" alt="image">
+<img src="images//netflix-ui-clone.png" alt="image">
 
 I have been using Netflix for about a year and few days back I though why not to build a Netflix Landing Page clone. And now at last I gave it a real shape. Check it out and suggest me any improvement. 
 
