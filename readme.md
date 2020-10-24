@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="github images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Netflix Landing Page Clone - UI</h3>
@@ -24,7 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="github images//netflix-ui-clone.JPG" alt="image">
+<img src="images//netflix-ui-clone.JPG" alt="image">
 
 I have been using Netflix for about a year and few days back I though why not to build a Netflix Landing Page clone. And now at last I gave it a real shape. Check it out and suggest me any improvement. 
 
